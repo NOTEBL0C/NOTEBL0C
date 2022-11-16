@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @NOTEBL0C
+- 🌱 I’m currently learning python
